@@ -8,7 +8,7 @@ public class MyController {
 //	
 	public String Name(String name) {
 		
-		return "Hello " +name;
+		return "Hello world " +name;
 	}
 
 }
